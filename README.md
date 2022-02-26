@@ -1,6 +1,8 @@
 # CNN-EmotionDetect
 A facial expression recognition system based on CNN
 
+[Click here to read the detailed instruction](https://github.com/Wesley273/CNN-EmotionDetect/blob/ac565a69721a67776a3f4707bfd69f9f553cfee8/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.pdf)
+
 ## 基本说明
 - 数据集：FER2013
 - Python版本：3.7.2
