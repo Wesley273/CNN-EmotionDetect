@@ -24,4 +24,4 @@ A facial expression recognition system based on CNN
 
 <br/>
 
-<img src="https://github.com/Wesley273/CNN-EmotionDetect/blob/fb3e1dae3d86573e113fd68581d4ffffdd5ab71f/img/test3.jpg" width="30%">
+<img src="https://github.com/Wesley273/CNN-EmotionDetect/blob/fb3e1dae3d86573e113fd68581d4ffffdd5ab71f/img/test3.jpg" width="50%">
